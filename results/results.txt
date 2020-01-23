@@ -1,0 +1,43 @@
+total series looked at: 20
+
+with 75% participation rule:
+total changed: 6
+series affected:
+2014-hi-j105
+2013-bm-genoa2
+2019-spring-j22
+2016-rd-j105
+2016-rd-gen1
+2018-ls-j22
+
+without 75% participation rule:
+total changed: 6
+series affected:
+2014-hi-j105
+2019-spring-j22
+2017-pk-gen1
+2013-bm-genoa
+2019-hs-j22
+2017-pk-j105
+
+Series used in data set:
+2014-hi-j105
+2013-bm-genoa2
+2019-spring-j22
+2016-rd-j105
+2014-hi-genoa
+2018-hs-gen1
+2013-bm-j105
+2017-pk-gen1
+2018-hs-gen2
+2019-summer-j105
+2013-bm-genoa
+2013-bm-spinnaker2
+2016-rd-gen1
+2019-hs-j22
+2019-summer-j70
+2018-hs-j105
+2018-ls-j22
+2019-ef-j22
+2017-pk-j105
+2014-hi-genoa2
